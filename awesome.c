@@ -3,6 +3,8 @@
 
 int main(){
 	int globalInt = 0;
-	printf("Clay is leet %d\n", globalInt);
+	for (int i = 0; i <= 999; i++){
+		printf("Clay is leet %d\n", globalInt);
+	}
 }
 
